@@ -43,7 +43,7 @@
 }
 
 #home::before{
-    background: url('../bg3.jpg');
+    background: url('bg3.jpg');
     height: 990px;
     width: 2725px;
     position: absolute;
@@ -106,7 +106,7 @@
 }
 
 #client-section::before{
-    background: url('../bg12.jpg');
+    background: url('bg12.jpg');
     height: 675px;
     width: 2725px;
     position: absolute;
